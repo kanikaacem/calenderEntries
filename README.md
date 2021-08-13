@@ -30,7 +30,31 @@ Run the application with the following command
 
 $ php artisan serve
 
-# Screenshot : 1 (Main Website GUI)
+# Screenshot : 1 (Main GUI)
 <p align="center"><img src="https://github.com/kanikaacem/calenderEntries/blob/main/c1.PNG" width="auto"></a></p>
+
+# Screenshot : 1 (Main Website GUI)
+<p align="center"><img src="https://github.com/kanikaacem/calenderEntries/blob/main/c2.PNG" width="auto"></a></p>
+
+# Screenshot : 1 (Main Website GUI)
+<p align="center"><img src="https://github.com/kanikaacem/calenderEntries/blob/main/c3.PNG" width="auto"></a></p>
+
+# Screenshot : 1 (Main Website GUI)
+<p align="center"><img src="https://github.com/kanikaacem/calenderEntries/blob/main/c4.PNG" width="auto"></a></p>
+
+# Screenshot : 1 (Main Website GUI)
+<p align="center"><img src="https://github.com/kanikaacem/calenderEntries/blob/main/c5.PNG" width="auto"></a></p>
+
+# Screenshot : 1 (Main Website GUI)
+<p align="center"><img src="https://github.com/kanikaacem/calenderEntries/blob/main/c6.PNG" width="auto"></a></p>
+
+# Screenshot : 1 (Main Website GUI)
+<p align="center"><img src="https://github.com/kanikaacem/calenderEntries/blob/main/c7.PNG" width="auto"></a></p>
+
+# Screenshot : 1 (Main Website GUI)
+<p align="center"><img src="https://github.com/kanikaacem/calenderEntries/blob/main/c8.PNG" width="auto"></a></p>
+
+# Screenshot : 1 (Main Website GUI)
+<p align="center"><img src="https://github.com/kanikaacem/calenderEntries/blob/main/c9.PNG" width="auto"></a></p>
 
 
