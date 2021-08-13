@@ -53,18 +53,20 @@ $ php artisan serve
 <p> You can easily manage timing of the events with  day button . You can also add your entry from here. </p>
 <p align="center"><img src="https://github.com/kanikaacem/calenderEntries/blob/main/c5.PNG" width="auto"></a></p>
 
-# Screenshot : 6 (Update Events)
-<p> You can easily update the date, time of the events by easily drag and drop .</p>
+# Screenshot : 6 (Weekly schedule)
 <p> It also show the weekly schedule of the user.</p>
 <p align="center"><img src="https://github.com/kanikaacem/calenderEntries/blob/main/c6.PNG" width="auto"></a></p>
 
-# Screenshot : 7 (Main Website GUI)
+# Screenshot : 7 (Update Events)
+<p> You can easily update the date, time of the events by easily drag and drop .</p>
 <p align="center"><img src="https://github.com/kanikaacem/calenderEntries/blob/main/c7.PNG" width="auto"></a></p>
 
-# Screenshot : 8 (Main Website GUI)
+# Screenshot : 8 (Delete Events)
+<p>You can easily delete the event by clicking on it . Click "OK" to delete the event </p>
 <p align="center"><img src="https://github.com/kanikaacem/calenderEntries/blob/main/c8.PNG" width="auto"></a></p>
 
-# Screenshot : 9 (Main Website GUI)
+# Screenshot : 9 (Event List)
+<p>You can easily show all the added events in the calender by clicking on "All Events".</p>
 <p align="center"><img src="https://github.com/kanikaacem/calenderEntries/blob/main/c9.PNG" width="auto"></a></p>
 
 
