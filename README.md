@@ -31,9 +31,13 @@ Run the application with the following command
 $ php artisan serve
 
 # Screenshot : 1 (Main GUI)
+<p> It helps to manage the everyday activity easily. It include side navbar to navigate through the month in the calender.It also 
+    some navigation button at the top of the Calender like left ,right, month ,day etc . It also show all the events in a singe menu
+    .The present date of the month is shaded with the darkgrey color. </p>
 <p align="center"><img src="https://github.com/kanikaacem/calenderEntries/blob/main/c1.PNG" width="auto"></a></p>
 
-# Screenshot : 1 (Main Website GUI)
+# Screenshot : 1 (Month navigation in calender)
+<p> Sidebar present in the left help to navigate the month in the calender.
 <p align="center"><img src="https://github.com/kanikaacem/calenderEntries/blob/main/c2.PNG" width="auto"></a></p>
 
 # Screenshot : 1 (Main Website GUI)
