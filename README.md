@@ -30,6 +30,7 @@ Run the application with the following command
 
 $ php artisan serve
 
-
+# Screenshot : 1 (Main Website GUI)
+<p align="center"><img src="https://github.com/kanikaacem/calenderEntries/blob/main/c1.PNG" width="auto"></a></p>
 
 
