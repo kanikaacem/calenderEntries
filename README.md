@@ -36,29 +36,35 @@ $ php artisan serve
     .The present date of the month is shaded with the darkgrey color. </p>
 <p align="center"><img src="https://github.com/kanikaacem/calenderEntries/blob/main/c1.PNG" width="auto"></a></p>
 
-# Screenshot : 1 (Month navigation in calender)
+# Screenshot : 2 (Month navigation in calender)
 <p> Sidebar present in the left help to navigate the month in the calender.
 <p align="center"><img src="https://github.com/kanikaacem/calenderEntries/blob/main/c2.PNG" width="auto"></a></p>
 
-# Screenshot : 1 (Main Website GUI)
+# Screenshot : 3 (Adding event in calender)
+<p> To add the entry in the calender , click the date on which you want to enter the event . Then a popup pops up to 
+    enter the title of the event and click "OK" to save the entry in the database .</p>
 <p align="center"><img src="https://github.com/kanikaacem/calenderEntries/blob/main/c3.PNG" width="auto"></a></p>
 
-# Screenshot : 1 (Main Website GUI)
+# Screenshot : 4 (Events in calender)
+<p> It shows all the events you added in the calender. </p>
 <p align="center"><img src="https://github.com/kanikaacem/calenderEntries/blob/main/c4.PNG" width="auto"></a></p>
 
-# Screenshot : 1 (Main Website GUI)
+# Screenshot : 5 (Manage timing of events)
+<p> You can easily manage timing of the events with  day button . You can also add your entry from here. </p>
 <p align="center"><img src="https://github.com/kanikaacem/calenderEntries/blob/main/c5.PNG" width="auto"></a></p>
 
-# Screenshot : 1 (Main Website GUI)
+# Screenshot : 6 (Update Events)
+<p> You can easily update the date, time of the events by easily drag and drop .</p>
+<p> It also show the weekly schedule of the user.</p>
 <p align="center"><img src="https://github.com/kanikaacem/calenderEntries/blob/main/c6.PNG" width="auto"></a></p>
 
-# Screenshot : 1 (Main Website GUI)
+# Screenshot : 7 (Main Website GUI)
 <p align="center"><img src="https://github.com/kanikaacem/calenderEntries/blob/main/c7.PNG" width="auto"></a></p>
 
-# Screenshot : 1 (Main Website GUI)
+# Screenshot : 8 (Main Website GUI)
 <p align="center"><img src="https://github.com/kanikaacem/calenderEntries/blob/main/c8.PNG" width="auto"></a></p>
 
-# Screenshot : 1 (Main Website GUI)
+# Screenshot : 9 (Main Website GUI)
 <p align="center"><img src="https://github.com/kanikaacem/calenderEntries/blob/main/c9.PNG" width="auto"></a></p>
 
 
